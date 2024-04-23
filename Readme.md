@@ -67,10 +67,6 @@ Paciente paciente2 = new Paciente("María López", 45, "Femenino", "Diabetes");
 paciente2.mostrarInformacion();
 ```
 
-## Contribución
-
-Siéntete libre de contribuir a este proyecto mediante la creación de solicitudes de extracción (PR) con mejoras o correcciones.
-
 ### Hecho por
 
 Adverik Andrés Gallego Gallego
