@@ -70,6 +70,7 @@ paciente2.mostrarInformacion();
 ## Contribución
 
 Siéntete libre de contribuir a este proyecto mediante la creación de solicitudes de extracción (PR) con mejoras o correcciones.
-```
 
-Este contenido Markdown proporciona una estructura clara y fácil de leer para el archivo README. Puedes guardarlo en un archivo con extensión `.md` para que sea reconocido como un archivo Markdown.
+### Hecho por
+
+Adverik Andrés Gallego Gallego
